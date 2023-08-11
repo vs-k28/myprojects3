@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right top, #e06aad, #6d6875);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto Slab', serif;
+    color: #e9e6ed;
+    padding: 10px;
+}
+
+h2 {
+    margin: 10px 0 20px;
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.container {
+    background-color:#74435f;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 10px;
+    width: 350px;
+    max-width: 100%;
+}
+
+.result-container {
+    background-color: #6c033f;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 1.3rem;
+    padding: 12px 10px;
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    position: relative;
+    letter-spacing: 1px;
+}
+
+.result-container #result {
+    word-wrap: break-word;
+    max-width: calc(100% - 40px);
+    font-size: 1.1rem;
+}
+
+.result-container .btn {
+    position: absolute;
+    right: 20px;
+    font-size: 1.5rem;
+    background-color: transparent;
+    border: none;
+    color: #e9e6ed;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-large {
+    width: 100%;
+    padding: 8px 0;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+    background-color:#7b2052;
+    color: #e9e6ed;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    display: block;
+    font-family: inherit;
+}
+.setting input {
+    width: 60px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: #9e0059;
+    color: #e9e6ed;
+}
+
+.btn:hover {
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    transform: scale(1.02);
+}
+
+.btn:active {
+    transform: scale(0.9);
+}
+
+.setting {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+
+
+
