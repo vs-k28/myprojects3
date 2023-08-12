@@ -8,7 +8,7 @@ Demo : Click the image above or watch the demo video on [YouTube](https://youtu.
 #### Project 2 : Mobile Navigation
 Description : Mobile navigation interface showcasing distinct menus and altering display images for each menu item in mobile view.
 
-Demo : Click the image above or watch the demo video on [YouTube]().
+Demo : Click the image above or watch the demo video on [YouTube](https://youtu.be/BgOjiKHKbQA).
 
 #### Project 3 : Password Generator
 Description :  Generate passwords with options for uppercase, lowercase, symbols, and numbers, adjustable length, and the ability to copy the generated password to the clipboard.
