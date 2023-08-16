@@ -19,14 +19,14 @@ Description :  Generate passwords with options for uppercase, lowercase, symbols
 
 ![screenshot](Images/PasswordGenerator.png)
 
-Demo : Watch the demo video on [YouTube]().
+Demo : Watch the demo video on [YouTube](https://youtu.be/Kegqq9kGZtQ).
 
 #### Project 4 : Todo List
 Description :  To-do list project offering tasks completion and deletion functionalities, complemented by a light CSS background.
 
 ![screenshot](Images/ToDoList.png)
 
-Demo : Watch the demo video on [YouTube]().
+Demo : Watch the demo video on [YouTube](https://youtu.be/xS6dUxMx0Ro).
 
 ## Acknowledgement
 
